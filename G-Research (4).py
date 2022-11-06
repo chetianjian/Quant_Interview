@@ -57,4 +57,4 @@ def fizzbuzz(n, p):
 
 
 print(fizzbuzz(15, 3))
-print(fizzbuzz(20, 8))
+print(fizzbuzz(50, 25))
